@@ -1,5 +1,5 @@
 ## This repository contains the details about the project work and study materials that we had used during the Summer Research Internship at IIT Kharagpur:
-## (Due to confidentiality reasons I am not allowed to share the codes, hence I will be only uploading the lighter datasets)
+## (Due to confidentiality reasons I am not allowed to share the codes, hence I will be only uploading the lighter files consisting of plots, results & datasets)
 Kampes, B.M., _"Radar Interferometry - The Persistent Scatterer Technique"_, published by Springer, 2006.
 
 The software consists of a Matlab toolbox.  Matlab must be installed on your system in order to use it.  To install, copy the directory stun and all its contents to a location on your hard disk.  (A zip file is also provided for your convenience.)  Include this directory in the search path of Matlab, e.g., by using the Matlab command "addpath".  Alternatively, start Matlab, and change directories to the installation directory using the command "cd".  Then, from within Matlab, type "help stun" for more information.
