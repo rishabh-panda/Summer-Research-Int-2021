@@ -1,4 +1,4 @@
-## This repository contains the details about the project work and study materials that we had used during the Summer Research Internship at IIT Kharagpur:
+## This repository contains the details about the project work and study materials that we had used during the Summer Research Internship at IIT Kharagpur (Due to confidentiality reasons I am not allowed to share the codes, hence I will be only uploading the lighter datasets):
 
 Kampes, B.M., _"Radar Interferometry - The Persistent Scatterer Technique"_, published by Springer, 2006.
 
